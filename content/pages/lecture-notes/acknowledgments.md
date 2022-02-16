@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: SupplementalResourceSection
 parent_title: Lecture Notes
+parent_type: SupplementalResourceSection
 parent_uid: c11018a2-9c18-78df-3f06-e7885845bbfb
 title: Acknowledgments
 uid: c2b1502d-39ef-6d5b-cde5-db80022e559a
