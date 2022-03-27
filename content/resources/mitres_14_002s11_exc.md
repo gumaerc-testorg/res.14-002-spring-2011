@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exercises
 parent_type: SupplementalResourceSection
+parent_uid: 64702936-5679-ce52-2bc6-0ff7f4d3afce
 resourcetype: Document
 title: MITRES_14_002S11_ExC.pdf
 uid: 71b6910d-e319-e49c-3a6d-dae44a81bddb

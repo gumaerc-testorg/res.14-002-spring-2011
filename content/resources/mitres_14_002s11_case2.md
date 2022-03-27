@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: SupplementalResourceSection
+parent_uid: 5b2e9af6-4fed-5a65-45d0-e9389051df31
 resourcetype: Document
 title: MITRES_14_002S11_Case2.pdf
 uid: a8572851-5dd6-6c1b-c855-33e34f6e5d0f

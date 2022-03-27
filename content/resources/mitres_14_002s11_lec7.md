@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
+parent_uid: c11018a2-9c18-78df-3f06-e7885845bbfb
 resourcetype: Document
 title: MITRES_14_002S11_lec7.pdf
 uid: dc66a41f-7ed7-10cf-cece-90f0e003eae0
