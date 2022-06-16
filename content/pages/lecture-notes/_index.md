@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains lecture slides.
 learning_resource_types:
 - Lecture Notes
 ocw_type: SupplementalResourceSection
@@ -7,7 +8,7 @@ title: Lecture Notes
 uid: c11018a2-9c18-78df-3f06-e7885845bbfb
 ---
 
-[Acknowledgments]({{< baseurl >}}/pages/lecture-notes/acknowledgments).
+{{% resource_link c2b1502d-39ef-6d5b-cde5-db80022e559a "Acknowledgments" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -34,7 +35,7 @@ What is evaluation?
 Rachel Glennerster, J-PAL
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.4MB]({{< baseurl >}}/resources/mitres_14_002s11_lec1))
+({{% resource_link 2916332a-f83e-9e39-4baa-a3b38678740c "PDF - 5.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +48,7 @@ Outcomes, indicators, and measuring impact
 Rema Hanna, Harvard University
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec2))
+({{% resource_link 1349c374-1076-c0fd-e576-b0a505fdd41b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +61,7 @@ Impact evaluation—why randomize?
 Dan Levy, Harvard University
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB]({{< baseurl >}}/resources/mitres_14_002s11_lec3))
+({{% resource_link 5322eaee-234e-a2d5-a1a3-aecde40b564f "PDF - 1.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +74,7 @@ How to randomize
 Rachel Glennerster, J-PAL
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mitres_14_002s11_lec4))
+({{% resource_link c070aed1-14ce-0b47-c1b8-9a75c9c4cfff "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +87,7 @@ Sampling and sample size
 Simone Schaner, Dartmouth college
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB]({{< baseurl >}}/resources/mitres_14_002s11_lec5))
+({{% resource_link 0fd2427f-25f7-c5ef-6634-b746589e55fe "PDF - 2.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ Analysis and inference
 Shawn Cole, Harvard University
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec6))
+({{% resource_link a92cf571-b2bf-a387-cd35-1be7440e26b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +113,7 @@ Randomized evaluation: start to finish
 Nava Ashraf, Harvard University
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec7))
+({{% resource_link dc66a41f-7ed7-10cf-cece-90f0e003eae0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +126,7 @@ Cost effectiveness and scaling up
 Iqbal Dhaliwal, J-PAL
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec8))
+({{% resource_link 1f190e2e-ed1f-b336-7721-baa38c272bca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

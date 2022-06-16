@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes the case studies discussed in the course.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Case Studies
@@ -30,7 +31,7 @@ CASE STUDIES
 Women as policy makers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_14_002s11_case1))
+({{% resource_link 4d4d6c69-d66e-94a5-5583-6a968448ba39 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +43,7 @@ Women as policy makers
 Learn to read evaluations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_14_002s11_case2))
+({{% resource_link a8572851-5dd6-6c1b-c855-33e34f6e5d0f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Learn to read evaluations
 Extra teacher program
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_14_002s11_case3))
+({{% resource_link b983002a-96ec-7edf-c346-cf223bad78d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +67,7 @@ Extra teacher program
 Deworming in Kenya
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_14_002s11_case4))
+({{% resource_link ace29054-e49f-afa7-59b7-c22b6ade4f4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

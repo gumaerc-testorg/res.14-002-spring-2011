@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course calendar and agenda.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Calendar

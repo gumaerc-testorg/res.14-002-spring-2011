@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the exercises used during the course.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Exercises
@@ -27,10 +28,10 @@ SUPPORTING FILES
 A: Understanding random sampling and the law of large numbers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_14_002s11_exa))
+({{% resource_link 01e05256-0064-6329-e243-fcee02708d31 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Sampling distributions ([XLS - 1.5MB]({{< baseurl >}}/resources/exa_smpdst))
+Sampling distributions ({{% resource_link f94d81dc-3ffd-b39d-345b-fa0db855224d "XLS - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,7 +40,7 @@ Sampling distributions ([XLS - 1.5MB]({{< baseurl >}}/resources/exa_smpdst))
 B: Sample size estimation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_14_002s11_exb))
+({{% resource_link 35c98dfb-a621-7fd8-e962-635d29eb4750 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -51,10 +52,10 @@ B: Sample size estimation
 C: The mechanics of random assignment
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitres_14_002s11_exc))
+({{% resource_link 71b6910d-e319-e49c-3a6d-dae44a81bddb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-School list ([XLS]({{< baseurl >}}/resources/exc_school))
+School list ({{% resource_link 8c877100-ea5b-0a10-3999-632fbbf6a9a0 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
