@@ -5,6 +5,7 @@ description: "This resource contains information related to deworming in kenya, 
 file: /courses/res-14-002-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2011-spring-2011/ace29054e49fafa759b7c22b6ade4f4e_MITRES_14_002S11_Case4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Case Studies
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: MITRES_14_002S11_Case4.pdf
 uid: ace29054-e49f-afa7-59b7-c22b6ade4f4e
 ---
 This resource contains information related to deworming in kenya, worms—a common problem with a cheap solution, and primary school deworming program.
-

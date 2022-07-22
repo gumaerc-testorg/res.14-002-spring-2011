@@ -6,6 +6,7 @@ file: /courses/res-14-002-abdul-latif-jameel-poverty-action-lab-executive-traini
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: MITRES_14_002S11_lec3.pdf
 uid: 5322eaee-234e-a2d5-a1a3-aecde40b564f
 ---
 This resource contains information related to impact evaluation methods, key advantage of experiments, and some variations on the basics.
-

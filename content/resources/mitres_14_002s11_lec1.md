@@ -7,6 +7,7 @@ file: /courses/res-14-002-abdul-latif-jameel-poverty-action-lab-executive-traini
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
@@ -16,4 +17,3 @@ title: MITRES_14_002S11_lec1.pdf
 uid: 2916332a-f83e-9e39-4baa-a3b38678740c
 ---
 This resource contains information related to the different types of evaluation, different levels of program evaluation, and program evaluation: community mobilization in education.
-

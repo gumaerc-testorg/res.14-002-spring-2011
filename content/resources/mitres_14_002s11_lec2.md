@@ -6,6 +6,7 @@ file: /courses/res-14-002-abdul-latif-jameel-poverty-action-lab-executive-traini
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: MITRES_14_002S11_lec2.pdf
 uid: 1349c374-1076-c0fd-e576-b0a505fdd41b
 ---
 This resource contains information related to goals of measurement, the setting: quotas in the village councils, and the controversy about quotas.
-

@@ -7,6 +7,7 @@ file: /courses/res-14-002-abdul-latif-jameel-poverty-action-lab-executive-traini
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: SupplementalResourceSection
@@ -16,4 +17,3 @@ title: MITRES_14_002S11_lec6.pdf
 uid: a92cf571-b2bf-a387-cd35-1be7440e26b2
 ---
 This resource contains information related to measuring total impact in the presence of spillovers, within-school health externalities, and sample selection bias.
-
