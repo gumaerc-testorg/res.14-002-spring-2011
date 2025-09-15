@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains exercise related to the mechanics of random assignment
   using ms excel.
-file: /courses/res-14-002-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2011-spring-2011/71b6910de319e49c3a6ddae44a81bddb_MITRES_14_002S11_ExC.pdf
+file: /ol-ocw-studio-app/courses/res-14-002-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2011-spring-2011/71b6910de319e49c3a6ddae44a81bddb_MITRES_14_002S11_ExC.pdf
+file_size: 1022737
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

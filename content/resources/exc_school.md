@@ -2,7 +2,8 @@
 content_type: resource
 description: This is a supporting file for understanding random sampling and the law
   of large numbers.
-file: /courses/res-14-002-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2011-spring-2011/8c877100ea5b0a103999632fbbf6a9a0_ExC_school.xls
+file: /ol-ocw-studio-app/courses/res-14-002-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2011-spring-2011/8c877100ea5b0a103999632fbbf6a9a0_ExC_school.xls
+file_size: 35840
 file_type: application/vnd.ms-excel
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
